@@ -1,3 +1,5 @@
 this is my salary app
 
 attendance is addedd
+
+location addedd
